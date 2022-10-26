@@ -6,4 +6,7 @@
     <string name="filamentos">Filamentos</string>
     <string name="magnetosfera">Magnetosfera</string>
     <string name="mancha_Solar">Mancha Solar</string>
+    <string name="diametro">Díametro</string>
+    <string name="distanciaSol">Distancia al sol</string>
+    <string name="densidad">Densidad</string>
 </resources>
