@@ -16,8 +16,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-
         val items = ArrayList<Sol>()
         items.add(Sol(R.drawable.corona_solar,R.string.corona_solar))
         items.add(Sol(R.drawable.erupcionsolar,R.string.erupcion_solar))
